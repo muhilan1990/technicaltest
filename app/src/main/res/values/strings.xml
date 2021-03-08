@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="activity_login">Login</string>
+    <string name="activity_popular_movies">Popular Movies</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Invalid email</string>
+    <string name="invalid_password">Minimum 6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="no_result">NO MOVIES FOUND</string>
+</resources>
